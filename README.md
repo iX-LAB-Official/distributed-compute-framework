@@ -247,7 +247,7 @@ If you use this framework in your research or project, please cite:
   author = {IX LAB},
   title = {IX LAB Distributed Compute Framework},
   url = {https://github.com/ixlab/distributed-compute-framework},
-  year = {2023},
+  year = {2025},
 }
 ```
 
